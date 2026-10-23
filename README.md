@@ -36,4 +36,10 @@ http://localhost:8080/library_site/
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/462c78c0-9e05-4342-867f-13a655d86f51" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a356dfc9-6c6c-446f-820f-88d9c486c874" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e51f992e-4ac8-48ab-9d4c-d43d9002a450" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5c942e9b-63f2-45bf-9698-9bd12901a944" />
+
 

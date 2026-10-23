@@ -32,3 +32,8 @@ http://localhost:8080/library_site/
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5939ff9f-8f68-43b9-99c9-501d4105bdd9" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b3689908-5bcd-4fde-8f30-a1027924151e" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/462c78c0-9e05-4342-867f-13a655d86f51" />
+
+

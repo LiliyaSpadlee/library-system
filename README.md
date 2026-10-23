@@ -25,3 +25,6 @@ http://localhost/library_site/
 
 Если порт Apache изменен (например, на 8080, как часто бывает при конфликтах портов), обязательно укажите его через двоеточие
 http://localhost:8080/library_site/
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9cc4eb18-84ba-41e0-b783-ec5d56d32f53" />
+
